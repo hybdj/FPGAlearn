@@ -1,0 +1,16 @@
+# relate repositories from github to local
+## Clone repository
+
+git clone <Github repository url>
+
+cd yourrepository
+
+## Adding changes
+
+Add all changes
+git add.
+
+submit  your changes
+git commit -m "You description"
+
+git push origin master
